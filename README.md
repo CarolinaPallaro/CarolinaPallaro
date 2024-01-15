@@ -19,8 +19,5 @@
 
 <h4>Redes</h4>
 <a href="https://www.linkedin.com/in/carolina-pallaro-20dev/">Linkedin</a>
-
-
-<h2>Portfolio </h2>
-<a href="https://portfolio-web-five-swart.vercel.app/"> </a>
+<a href="https://portfolio-web-five-swart.vercel.app/">Portfolio </a>
 
