@@ -4,8 +4,12 @@
 <h2 align="center" style="bold">Hola a todos soy Caro! 👋 Charo para los cuates</h2>
 <h3 align="center">Web Developer en proceso ❤.</h3>
 
+- 🤓 actualmente: Estoy enfocando mis estudios en el área de  **desarrollo Frontend**
 - 📫 Contacto *charopallaro@gmail.com**
+- 👍 Acerca de mi: Me encanta la musica, el mate, jugar lolcito y aprender cosas nuevas.
+- 👨‍💻 Mi [**Portafolio**](https://portfolio-web-five-swart.vercel.app/)
 
+- 
 <h4 >Tecnologías</h4>
 <ul >
   <li>React</li>
@@ -19,6 +23,5 @@
 
 <h4>Redes</h4>
 <a href="https://www.linkedin.com/in/carolina-pallaro-20dev/">Linkedin</a>
-<br>
-<a href="https://portfolio-web-five-swart.vercel.app/">Portfolio </a>
+
 
