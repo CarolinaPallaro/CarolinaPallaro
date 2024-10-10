@@ -7,7 +7,7 @@
 - 🤓 actualmente: Estoy enfocando mis estudios en el área de  **desarrollo Frontend**.
 - 📫 Contacto *charopallaro@gmail.com**
 - 👍 Acerca de mi: Me encanta la musica, el mate, jugar lolcito y aprender cosas nuevas.
-- 👨‍💻 Mi [**Portafolio**]([https://portfolio-web-five-swart.vercel.app/](https://portfolio-2024-henna-three.vercel.app/))
+- 👨‍💻 Mi [**Portafolio**](https://portfolio-web-five-swart.vercel.app/](https://portfolio-2024-henna-three.vercel.app/)](https://portfolio-2024-henna-three.vercel.app/))
   
 <h4 >Tecnologías</h4>
 <ul >
