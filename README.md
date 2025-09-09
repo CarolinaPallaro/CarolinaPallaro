@@ -34,7 +34,8 @@ Me encanta:
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Elixir](https://simpleicons.org/?modal=icon&q=elixir)
+(https://simpleicons.org/?modal=icon&q=elixir)
+
 
 ### 🛠 Tecnologías y herramientas
 - **Frontend:** React, HTML, Tailwind CSS, JavaScript, Typescript   
