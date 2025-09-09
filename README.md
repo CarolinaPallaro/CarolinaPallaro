@@ -35,6 +35,7 @@ Me encanta:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Elixir](https://simpleicons.org/?modal=icon&q=elixir)
+
 ### 🛠 Tecnologías y herramientas
 - **Frontend:** React, HTML, Tailwind CSS, JavaScript, Typescript   
 - **Backend:** Java, Spring Boot, SQL, Postman, Elixir   
