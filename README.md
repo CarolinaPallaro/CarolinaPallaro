@@ -23,7 +23,7 @@
 ![Rollbar](https://img.shields.io/badge/Rollbar-FF6C37?style=for-the-badge&logo=rollbar&logoColor=white)
 
 <p align="center">
-  Actualmente me estoy especializando en <strong>Desarrollo Frontend</strong>, creando experiencias web dinámicas y atractivas.
+  <strong> Frontend Developer | React | Playwright · Integraciones · Backend </strong>
 </p>
 
 ---
